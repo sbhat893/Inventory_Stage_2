@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Inventoryapp</string>
+
+    <string name="editor_activity_title_new_phone">Add a Phone</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_supplier">Supplier</string>
+    <string name="category_quantity">Quantity</string>
+    <string name="category_price">Price</string>
+    <string name="editor_insert_phone_successful">Phone saved</string>
+    <string name="editor_insert_phone_failed">Error with saving Phone</string>
+    <string name="hint_product_brand">Phone Brand</string>
+    <string name="hint_product_model">Phone Model</string>
+    <string name="hint_supplier_phone">Phone</string>
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="hint_product_price">Price</string>
+    <string name="supplier_select" translatable="false">Select Supplier</string>
+    <string name="supplier_unknown">N/A</string>
+    <string name="supplier_1">Amazon.com</string>
+    <string name="supplier_2">Flipkart</string>
+    <string name="supplier_3">ebay</string>
+    <string name="supplier_4">martinas</string>
+    <string name="toast_error_saving_product">Error saving the product.</string>
+    <string name="toast_error_saving_product_full">Please fill in all required fields and try again.</string>
+    <string name="toast_success_product_saved">Product saved with row id: %1$d</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Phones</string>
+    <string name="cursor_message">The table contains $1$d phones.</string>
+    <string name="toast_saving_product_full">Succussful !</string>
+    <string name="empty_view_title_text">No entries</string>
+    <string name="empty_view_subtitle_text">Get started by adding a phone</string>
+    <string name="editor_activity_title_edit_phone">Edit Phone</string>
+    <string name="editor_update_phone_failed">error updating Phone</string>
+    <string name="editor_update_phone_successful">update phone successful</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_phone_successful">Phone deleted</string>
+    <string name="editor_delete_phone_failed">Error with deleting Phone</string>
+    <string name="delete_dialog_msg">Delete this phone?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unknown_supplier">unknown supplier</string>
+    <string name="category_measurement">Price per Item</string>
+    <string name="unit_product_price">Rs.</string>
+    <string name="noLessQuantity">noLessQuantity</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="sale">sale</string>
+    <string name="sell_product_failed">Quantity value invalid!</string>
+    <string name="call">call</string>
+    <string name="order">order</string>
+    <string name="toast_out_of_stock">Out of stock</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin around the floating action button in CatalogActivity -->
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Common margin values used throughout the app -->
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="item_margin">4dp</dimen>
+    <dimen name="general_margin">16dp</dimen>
+    <dimen name="button_text">24sp</dimen>
+    <dimen name="add_quantity_text">26sp</dimen>
+    <dimen name="textsize">28sp</dimen>
+    <dimen name="listmargin">54dp</dimen>
+    <dimen name="spacing1">30dp</dimen>
+</resources>
+

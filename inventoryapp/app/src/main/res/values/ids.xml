@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edit_product_brand" type="id">edit_product_brand</item>
+    <item name="edit_product_model" type="id">edit_product_model</item>
+    <item name="spinner_supplier" type="id">spinner_supplier</item>
+    <item name="edit_supplier_phone" type="id">edit_supplier_phone</item>
+    <item name="edit_product_quantity" type="id">edit_product_quantity</item>
+    <item name="edit_product_price" type="id">edit_product_price</item>
+    <item name="price" type="id">price</item>
+</resources>
